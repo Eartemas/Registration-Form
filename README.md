@@ -52,9 +52,9 @@ To see the project in action and explore the codebase, follow these steps:
 
 ## Project Screenshots
 
-![Image of Sign-Up Form]
+![Image of Sign-Up Form](https://i.imgur.com/aw3TFIO.png)
 
-![Image of Field Validation with Error Messages]
+![Image of Field Validation with Error Messages](https://i.imgur.com/FrjQgpx.png)
 
 ---
 
